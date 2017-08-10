@@ -15,5 +15,6 @@ moudle.exports={
     return list;
   },
   store:function(){
+  	//测试
   }
 }
